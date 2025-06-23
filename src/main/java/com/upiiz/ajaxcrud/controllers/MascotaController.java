@@ -20,7 +20,7 @@ public class MascotaController {
 
 
 
-    @GetMapping("/mascota")
+    @GetMapping
     public String mascota() {
         return "mascota";
     }
