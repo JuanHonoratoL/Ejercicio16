@@ -1,0 +1,6 @@
+com\upiiz\ajaxcrud\Repositories\MascotaRepository.class
+com\upiiz\ajaxcrud\controllers\HomeController.class
+com\upiiz\ajaxcrud\models\MascotaModel.class
+com\upiiz\ajaxcrud\controllers\MascotaController.class
+com\upiiz\ajaxcrud\AjaxcrudApplication.class
+com\upiiz\ajaxcrud\Services\MascotaService.class
